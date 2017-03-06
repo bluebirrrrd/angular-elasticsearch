@@ -1,0 +1,14 @@
+{
+  "name": "angular-elasticsearch-backend",
+  "version": "0.0.1",
+  "description": "Backend for angular-elasticsearch project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anna Kurylo",
+  "license": "MIT",
+  "dependencies": {
+    "elasticsearch": "^12.1.3"
+  }
+}
